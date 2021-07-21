@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="kh.spring.main">
+	<logger name="kh.spring.controller">
 		<level value="info" />
 	</logger>
 	

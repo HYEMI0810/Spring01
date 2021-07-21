@@ -5,10 +5,16 @@
 	<title>Home</title>
 </head>
 <body>
-<h1>
-	Hello world!  
-</h1>
-
-<P>  The time on the server is ${serverTime}. </P>
+	<table border=1 align=center>
+		<tr>
+			<th colspan=4>Index
+		</tr>
+		<tr>
+			<td><a href = "inputForm">toInput</a>
+			<td><a href = "outputForm">toOutput</a>
+			<td><a href = "DeleteForm">toDelete</a>
+			<td><a href = "ModifyForm">toModify</a>
+		</tr>
+	</table>
 </body>
 </html>
